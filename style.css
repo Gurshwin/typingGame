@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  #quote {
+    font-size: 1.2rem;
+    margin: 20px 0;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
